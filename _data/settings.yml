@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Блог с картинками'
       url: '/'
     - title: 'Блог про код и книжки'
-      url: 'http://burlakov.io/'
+      url: 'http://code.burlakov.io/'
     - title: 'Обо мне'
       url: '/about'
 
