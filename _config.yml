@@ -1,4 +1,5 @@
-site: Burlakov Nick blog
+site: "Burlakov's awesome blog"
+title: "Burlakov's awesome blog"
 
 collections:
   pages:
