@@ -15,6 +15,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      sidemenu_image: "/images/me.jpg"
   -
     scope:
       path: ""

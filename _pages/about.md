@@ -1,6 +1,7 @@
 ---
 title: Обо мне
 featured_image: /images/me2.jpg
+sidemenu_image: /images/me2.jpg
 ---
 
 Привет!
