@@ -3,7 +3,6 @@ title: Путешествие, вино и две очаровательные �
 excerpt: Что еще нужно, чтобы прекрасно провести время?
 date: '2019-01-01 00:00:00'
 featured_image: /images/portugalya/pickup.jpg
-sidemenu_image: /images/me.jpg
 images: /images/portugalya/
 ---
 
